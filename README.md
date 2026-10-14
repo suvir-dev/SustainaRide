@@ -1,7 +1,6 @@
 # SustainaRide
-* This project is made by team CodeBritannic for the Uber Global Hackathon
-* Top 6 teams in Europe and Central Asia
-* [Watch the SustainaRide Video on YouTube](https://www.youtube.com/watch?v=9IeYVpJtRzQ)
+
+SustainaRide is a desktop application designed and created by team CodeBritannic for the Uber Virtual Global Hackathon. CodeBritannic was one of the top 6 teams in Europe and Asia out of 270 coding track teams in the region. [Watch the SustainaRide Video on YouTube](https://www.youtube.com/watch?v=9IeYVpJtRzQ)
 
 ## Key Features
 
