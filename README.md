@@ -16,3 +16,12 @@
     *   **Text-to-Speech**: Listen to the AI's recommendations read aloud, powered by `gTTS`.
 *   **Customizable UI**: The application is built with `customtkinter`, offering a modern user interface with support for light and dark themes.
 
+## Technologies Used
+
+*   **GUI**: `customtkinter`, `tkintermapview`
+*   **Mapping & Geocoding**: `openrouteservice-py`, `geopy`, `polyline`
+*   **AI & Machine Learning**: `openai` (GPT-3.5-Turbo for recommendations), `AssemblyAI` (Speech-to-Text)
+*   **Audio**: `gTTS` (Text-to-Speech), `pygame` (Audio playback), `pvrecorder` (Audio recording)
+*   **Backend Communication**: `requests` (To interact with the PythonAnywhere-hosted server for carpooling)
+
+
