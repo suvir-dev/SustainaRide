@@ -1,7 +1,7 @@
 # SustainaRide
 * This project is made by team CodeBritannic for the Uber Global Hackathon
 * Top 6 teams in Europe and Central Asia
-* [Watch the SustainaRide Video on YouTube](https://www.youtube.com/watch?v=9IeYVpJtRzQ&t=16s)
+* [Watch the SustainaRide Video on YouTube](https://www.youtube.com/watch?v=9IeYVpJtRzQ)
 
 ## Key Features
 
@@ -24,4 +24,31 @@
 *   **Audio**: `gTTS` (Text-to-Speech), `pygame` (Audio playback), `pvrecorder` (Audio recording)
 *   **Backend Communication**: `requests` (To interact with the PythonAnywhere-hosted server for carpooling)
 
+### Prerequisites
+
+You will need API keys for the following services. Please set them as environment variables in your system:
+
+*   `OPENROUTESERVICE_API_KEY`
+*   `OPEN_AI_API_KEY`
+*   `ASSEMBLYAI_API_TOKEN`
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/suvir-dev/SustainaRide.git
+    cd SustainaRide
+    ```
+
+2.  **Install the required Python packages:**
+    ```sh
+    pip install customtkinter tkintermapview openrouteservice geopy openai requests gTTS pygame pvrecorder assemblyai polyline certifi
+    ```
+
+### Running the Application
+
+Once the dependencies are installed and environment variables are set, run the main application file:
+
+```sh
+python main.py
 
